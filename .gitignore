@@ -2,3 +2,4 @@ myvenv
 Git
 Microsoft VS Code
 .vscode
+*.pyc
